@@ -1,16 +1,12 @@
 # Level Up Tutorials JavaScript Testing 101
 
-## Help Support
-
-https://www.leveluptutorials.com/store
-
 ## How To Use
 
 ```
-git clone https://github.com/leveluptuts/Level-Up-JavaScript-Testing-101.git
-cd Level-Up-JavaScript-Testing-101
+git clone https://github.com/dwyfrequency/jest-testing-level-up.git
+cd Level-Up-Jest-Testing-101
 yarn install
 yarn test
 ```
 
-Then follow along on Youtube
+Then follow along on [Youtube](https://www.youtube.com/watch?v=QzznzOlkgGw)
